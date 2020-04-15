@@ -51,8 +51,6 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-mcq-3/problem" rel="nofollow">Compound Event Probability</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 3</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-mcq-4/problem" rel="nofollow">Conditional Probability</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Group%20Anagrams.py">Python</a></td>
@@ -67,14 +65,10 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-mcq-6/problem" rel="nofollow">Drawing Marbles</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 4</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-binomial-distribution-1/problem" rel="nofollow">Binomial Distribution I</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 4</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-binomial-distribution-2/problem" rel="nofollow">Binomial Distribution II</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Group%20Anagrams.py">Python</a></td>
@@ -89,16 +83,11 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-geometric-distribution-2/problem" rel="nofollow">Geometric Distribution II</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 5</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-poisson-distribution-1/problem" rel="nofollow">Poisson Distribution I
-
 </a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 5</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem" rel="nofollow">Poisson Distribution II</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Group%20Anagrams.py">Python</a></td>
@@ -113,8 +102,6 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem" rel="nofollow">Normal Distribution II</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 6</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem" rel="nofollow">The Central Limit Theorem I</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Group%20Anagrams.py">Python</a></td>
@@ -129,14 +116,10 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem" rel="nofollow">The Central Limit Theorem III</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 7</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem" rel="nofollow">Pearson Correlation Coefficient I</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <td>Day 7</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem" rel="nofollow">Spearman's Rank Correlation Coefficient</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Group%20Anagrams.py">Python</a></td>
@@ -151,8 +134,6 @@ A new course from Hackerrank
 <td><a href="https://www.hackerrank.com/challenges/s10-mcq-7/problem" rel="nofollow">Pearson Correlation Coefficient II</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Middle%20of%20the%20Linked%20List.py">Python</a></td>
 </tr>
-</tbody>
-</table>
 <tr>
 <td>Day 9</td>
 <td><a href="https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem" rel="nofollow">Multiple Linear Regression</a></td>
