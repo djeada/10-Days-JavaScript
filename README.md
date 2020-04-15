@@ -28,7 +28,7 @@ A new course from Hackerrank
 </tr>
 <tr>
 <td>Day 1</td>
-<td><a href="https://www.hackerrank.com/challenges/s10-interquartile-range/problem" rel="nofollow"Interquartile Range</a></td>
+<td><a href="https://www.hackerrank.com/challenges/s10-interquartile-range/problem" rel="nofollow">Interquartile Range</a></td>
 <td><a href="https://github.com/djeada/Leetcode-30-day-Challange/blob/master/src/Move%20Zeroes.py">Python</a></td>
 </tr>
 <tr>
