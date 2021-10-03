@@ -1,3 +1,2 @@
 # 10-Days-JavaScript
-A new course from Hackerrank
-
+Solutions to HackerRank JavaScript problems.
