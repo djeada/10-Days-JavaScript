@@ -111,3 +111,114 @@ Solutions to HackerRank JavaScript problems.
         </tr>
     </tbody>
 </table>
+
+<h1>Day 4</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-objects/problem">Create a Rectangle Object</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/type_of_triangle.js">js</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-count-objects/problem">Count Objects</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/the_pads.js">js</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-class/problem">Classes</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/occupations.js">js</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Day 5</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-inheritance/problem">Inheritance</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/type_of_triangle.js">js</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-template-literals/problem">Template Literals</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/the_pads.js">js</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-arrows/problem">Arrow Functions</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/occupations.js">js</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Day 6</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-bitwise/problem">Bitwise Operators</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/type_of_triangle.js">js</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-date/problem">JavaScript Dates</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/the_pads.js">js</a></td>
+        </tr>
+    </tbody>
+</table>
+
+<h1>Day 7</h1>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Title</th>
+            <th>Solution</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-regexp-1/problem">Regular Expressions I</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/type_of_triangle.js">js</a></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-regexp-2/problem">Regular Expressions II</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/the_pads.js">js</a></td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-regexp-3/problem">Regular Expressions III</a></td>
+            <td><a href="https://github.com/djeada/js-HackerRank/blob/main/src/advanced_select/occupations.js">js</a></td>
+        </tr>
+    </tbody>
+</table>
