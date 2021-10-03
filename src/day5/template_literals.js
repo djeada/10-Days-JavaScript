@@ -14,8 +14,8 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
@@ -34,12 +34,12 @@ function readLine() {
 function sides(literals, ...expressions) {
     var area = expressions[0];
     var perimeter = expressions[1];
-    
-    var s1 = (perimeter + Math.sqrt(perimeter * perimeter  - (16 * area))) / 4;
+
+    var s1 = (perimeter + Math.sqrt(perimeter * perimeter - (16 * area))) / 4;
     //console.log("s1: " + s1);
-    var s2 = (perimeter - Math.sqrt(perimeter * perimeter  - (16 * area))) / 4;
+    var s2 = (perimeter - Math.sqrt(perimeter * perimeter - (16 * area))) / 4;
     //console.log("s2: " + s2);
-    if(s1<s2){
+    if (s1 < s2) {
         return [s1, s2];
     }
     return [s2, s1];
@@ -49,11 +49,11 @@ function sides(literals, ...expressions) {
 function main() {
     let s1 = +(readLine());
     let s2 = +(readLine());
-    
+
     [s1, s2] = [s1, s2].sort();
-    
-    const [x, y] = sides`The area is: ${s1 * s2}.\nThe perimeter is: ${2 * (s1 + s2)}.`;
-    
+
+    const [x, y] = sides `The area is: ${s1 * s2}.\nThe perimeter is: ${2 * (s1 + s2)}.`;
+
     console.log((s1 === x) ? s1 : -1);
     console.log((s2 === y) ? s2 : -1);
 }

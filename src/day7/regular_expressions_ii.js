@@ -14,8 +14,8 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
@@ -28,8 +28,8 @@ function regexVar() {
      * It must match a string that starts with 'Mr.', 'Mrs.', 'Ms.', 'Dr.', or 'Er.', 
      * followed by one or more letters.
      */
-    
-    
+
+
     /*
      * Do not remove the return statement
      */
@@ -40,6 +40,6 @@ function regexVar() {
 function main() {
     const re = regexVar();
     const s = readLine();
-    
+
     console.log(!!s.match(re));
 }

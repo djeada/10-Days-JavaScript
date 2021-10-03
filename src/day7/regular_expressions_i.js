@@ -14,32 +14,31 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
     return inputString[currentLine++];
 }
 
-/*
- * Complete the Rectangle function
- */
-function Rectangle(a, b) {
-    this.length = a;
-    this.width = b;
-    this.perimeter = 2 * (a+b);
-    this.area = a * b;
+function regexVar() {
+    /*
+     * Declare a RegExp object variable named 're'
+     * It must match a string that starts and ends with the same vowel (i.e., {a, e, i, o, u})
+     */
+
+
+    /*
+     * Do not remove the return statement
+     */
+    return RegExp(/^([aeiou]).*\1$/);
 }
 
+
 function main() {
-    const a = +(readLine());
-    const b = +(readLine());
-    
-    const rec = new Rectangle(a, b);
-    
-    console.log(rec.length);
-    console.log(rec.width);
-    console.log(rec.perimeter);
-    console.log(rec.area);
+    const re = regexVar();
+    const s = readLine();
+
+    console.log(re.test(s));
 }

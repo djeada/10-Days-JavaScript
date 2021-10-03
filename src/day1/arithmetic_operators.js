@@ -14,8 +14,8 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
@@ -23,13 +23,13 @@ function readLine() {
 }
 
 /**
-*   Calculate the area of a rectangle.
-*
-*   length: The length of the rectangle.
-*   width: The width of the rectangle.
-*   
-*    Return a number denoting the rectangle's area.
-**/
+ *   Calculate the area of a rectangle.
+ *
+ *   length: The length of the rectangle.
+ *   width: The width of the rectangle.
+ *   
+ *    Return a number denoting the rectangle's area.
+ **/
 function getArea(length, width) {
     let area;
     // Write your code here
@@ -38,13 +38,13 @@ function getArea(length, width) {
 }
 
 /**
-*   Calculate the perimeter of a rectangle.
-*    
-*    length: The length of the rectangle.
-*   width: The width of the rectangle.
-*   
-*    Return a number denoting the perimeter of a rectangle.
-**/
+ *   Calculate the perimeter of a rectangle.
+ *    
+ *    length: The length of the rectangle.
+ *   width: The width of the rectangle.
+ *   
+ *    Return a number denoting the perimeter of a rectangle.
+ **/
 function getPerimeter(length, width) {
     let perimeter;
     // Write your code here
@@ -56,7 +56,8 @@ function getPerimeter(length, width) {
 function main() {
     const length = +(readLine());
     const width = +(readLine());
-    
+
     console.log(getArea(length, width));
     console.log(getPerimeter(length, width));
 }
+

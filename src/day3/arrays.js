@@ -14,8 +14,8 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
@@ -23,27 +23,27 @@ function readLine() {
 }
 
 /**
-*   Return the second largest number in the array.
-*   @param {Number[]} nums - An array of numbers.
-*   @return {Number} The second largest number in the array.
-**/
+ *   Return the second largest number in the array.
+ *   @param {Number[]} nums - An array of numbers.
+ *   @return {Number} The second largest number in the array.
+ **/
 function getSecondLargest(nums) {
     // Complete the function
     sort(nums);
-    for(var i = nums.length-1; i > 0; i--){
-        if(nums[i] != nums[nums.length-1]){
+    for (var i = nums.length - 1; i > 0; i--) {
+        if (nums[i] != nums[nums.length - 1]) {
             return nums[i];
         }
     }
 }
 
-function sort(arr){
-    for(var i = 0; i < arr.length; i++){
-        for(var j = 0; j < arr.length-1; j++){
-            if(arr[j] > arr[j+1]){
+function sort(arr) {
+    for (var i = 0; i < arr.length; i++) {
+        for (var j = 0; j < arr.length - 1; j++) {
+            if (arr[j] > arr[j + 1]) {
                 var temp = arr[j];
-                arr[j] = arr[j+1];
-                arr[j+1] = temp;
+                arr[j] = arr[j + 1];
+                arr[j + 1] = temp;
             }
         }
     }
@@ -54,6 +54,6 @@ function sort(arr){
 function main() {
     const n = +(readLine());
     const nums = readLine().split(' ').map(Number);
-    
+
     console.log(getSecondLargest(nums));
 }

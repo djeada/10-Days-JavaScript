@@ -14,32 +14,35 @@ process.stdin.on('end', _ => {
     inputString = inputString.trim().split('\n').map(string => {
         return string.trim();
     });
-    
-    main();    
+
+    main();
 });
 
 function readLine() {
     return inputString[currentLine++];
 }
-/*
- * Create the function factorial here
- */
 
-function factorial(n)
-{
-    if (n < 2)
-        {
-            return 1;
-        }
-    
-    return n * factorial(n-1);
+function regexVar() {
+    /*
+     * Declare a RegExp object variable named 're'
+     * It must match ALL occurrences of numbers in a string.
+     */
+
+
+    /*
+     * Do not remove the return statement
+     */
+    return RegExp('\\d+', 'g');
 }
 
 
 function main() {
-    const n = +(readLine());
-    
-    console.log(factorial(n));
-}
+    const re = regexVar();
+    const s = readLine();
 
-main()
+    const r = s.match(re);
+
+    for (const e of r) {
+        console.log(e);
+    }
+}
