@@ -72,7 +72,7 @@ Solutions to HackerRank JavaScript problems.
         </tr>
         <tr>
             <td>2</td>
-            <td><a href="https://www.hackerrank.com/challenges/js10-switch/problem">Day 2: Conditional Statements: Switch</a></td>
+            <td><a href="https://www.hackerrank.com/challenges/js10-switch/problem">Conditional Statements: Switch</a></td>
             <td><a href="https://github.com/djeada/10-Days-JavaScript/blob/master/src/day2/conditional_statements_switch.js">js</a></td>
         </tr>
         <tr>
